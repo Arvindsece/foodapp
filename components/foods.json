@@ -1,0 +1,131 @@
+[
+    {
+      "name": "Nonveg burger",
+      "categories": "burger,nonveg,fast food",
+      "price": 120,
+      "rating": 4.2,
+      "deliveryDuration": "30 mins",
+      "imageURL": "1.jpg"
+    },
+    {
+      "name": "Tomato soup",
+      "categories": "soup,veg,starter",
+      "price": 80,
+      "rating": 4.0,
+      "deliveryDuration": "20 mins",
+      "imageURL": "2.jpg"
+    },
+    {
+      "name": "Fried chicken",
+      "categories": "nonveg,chicken,fast food",
+      "price": 150,
+      "rating": 4.5,
+      "deliveryDuration": "25 mins",
+      "imageURL": "3.jpg"
+    },
+    {
+      "name": "Egg curry",
+      "categories": "nonveg,curry,egg",
+      "price": 100,
+      "rating": 4.1,
+      "deliveryDuration": "30 mins",
+      "imageURL": "4.jpg"
+    },
+    {
+      "name": "Prawn gravy",
+      "categories": "nonveg,seafood,curry",
+      "price": 180,
+      "rating": 4.3,
+      "deliveryDuration": "35 mins",
+      "imageURL": "5.jpg"
+    },
+    {
+      "name": "Noodles",
+      "categories": "veg,fast food,noodles",
+      "price": 90,
+      "rating": 4.0,
+      "deliveryDuration": "20 mins",
+      "imageURL": "6.jpg"
+    },
+    {
+      "name": "Paneer masala",
+      "categories": "veg,curry,paneer",
+      "price": 130,
+      "rating": 4.4,
+      "deliveryDuration": "25 mins",
+      "imageURL": "7.jpg"
+    },
+    {
+      "name": "Barbique chicken",
+      "categories": "nonveg,chicken,barbecue",
+      "price": 200,
+      "rating": 4.6,
+      "deliveryDuration": "40 mins",
+      "imageURL": "8.jpg"
+    },
+    {
+      "name": "Rice with veg curry",
+      "categories": "veg,rice,combo",
+      "price": 100,
+      "rating": 4.1,
+      "deliveryDuration": "30 mins",
+      "imageURL": "9.jpg"
+    },
+    {
+      "name": "Dosa",
+      "categories": "veg,south indian,breakfast",
+      "price": 60,
+      "rating": 4.2,
+      "deliveryDuration": "15 mins",
+      "imageURL": "10.jpg"
+    },
+    {
+      "name": "Samosas",
+      "categories": "veg,snack,starter",
+      "price": 40,
+      "rating": 4.0,
+      "deliveryDuration": "10 mins",
+      "imageURL": "11.jpg"
+    },
+    {
+      "name": "Naan",
+      "categories": "veg,bread,indian",
+      "price": 30,
+      "rating": 4.3,
+      "deliveryDuration": "15 mins",
+      "imageURL": "12.jpg"
+    },
+    {
+      "name": "Pancake",
+      "categories": "veg,dessert,breakfast",
+      "price": 90,
+      "rating": 4.1,
+      "deliveryDuration": "20 mins",
+      "imageURL": "13.jpg"
+    },
+    {
+      "name": "Grill chicken",
+      "categories": "nonveg,chicken,grilled",
+      "price": 180,
+      "rating": 4.5,
+      "deliveryDuration": "35 mins",
+      "imageURL": "14.jpg"
+    },
+    {
+      "name": "Hyderabadi biryani",
+      "categories": "nonveg,biryani,rice",
+      "price": 160,
+      "rating": 4.7,
+      "deliveryDuration": "30 mins",
+      "imageURL": "15.jpg"
+    },
+    {
+      "name": "Idly",
+      "categories": "veg,south indian,breakfast",
+      "price": 40,
+      "rating": 4.3,
+      "deliveryDuration": "10 mins",
+      "imageURL": "16.jpg"
+    }
+  ]
+  

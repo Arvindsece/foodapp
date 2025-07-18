@@ -1,5 +1,6 @@
 "use client";
 import React, { useEffect, useState } from "react";
+import Image from "next/image";
 
 const CartPage = () => {
   const [cartItems, setCartItems] = useState([]);
@@ -36,10 +37,12 @@ const CartPage = () => {
           <div className="cartpage-list">
             {cartItems.map((item, idx) => (
               <div key={idx} className="cartpage-item">
-                <img
+                <Image
                   src={item.imageURL}
                   alt={item.name}
                   className="cartpage-item-image"
+                  width={120}
+                  height={80}
                 />
                 <div className="cartpage-item-details">
                   <div className="cartpage-item-name">{item.name}</div>

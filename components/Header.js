@@ -1,6 +1,7 @@
 "use client";
 import React, { useState, useEffect } from 'react'
 import Link from 'next/link'
+import Image from 'next/image'
 
 const Header = () => {
   const [cartCount, setCartCount] = useState(0);
@@ -46,7 +47,13 @@ const Header = () => {
           <div className="cart-dropdown">
             {cartItems.map((item, idx) => (
               <div key={idx} className="cart-item">
-                <img src={item.imageURL} alt={item.name} className="cart-item-image" />
+                <Image
+                  src={item.imageURL}
+                  alt={item.name}
+                  className="cart-item-image"
+                  width={50}
+                  height={50}
+                />
                 <div className="cart-item-details">
                   <span className="cart-item-name">{item.name}</span>
                   <span className="cart-item-price">₹{item.price}</span>
